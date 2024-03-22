@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "iconfont";
+  /* Project id 4477624 */
+  src: url('../fonts/iconfont.woff2?t=1711081395128') format('woff2'),
+    url('../fonts/iconfont.woff?t=1711081395128') format('woff'),
+    url('../fonts/iconfont.ttf?t=1711081395128') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-a-business-icon-AlibabacomOnlineTradeShow:before {
+  content: "\e822";
+}
+
+.icon-a-business-icon-Bigpromotion:before {
+  content: "\e823";
+}
+
+.icon-business-icon-buyers-club-fill:before {
+  content: "\e824";
+}
+
+.icon-business-icon-ali-clould:before {
+  content: "\e825";
+}
+
+.icon-a-business-icon-MOQ:before {
+  content: "\e826";
+}
